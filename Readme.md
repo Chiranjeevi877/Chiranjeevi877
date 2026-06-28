@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Chiranjeevi Naik
+# Hi there , I'm Chiranjeevi Naik
 
 <div align="center">
 
-## 🚀 Aspiring Engineer | AI Enthusiast | Ethical Hacking Learner | Future Entrepreneur
+##  Aspiring Engineer | AI Enthusiast | Ethical Hacking Learner | Future Entrepreneur
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Artificial+Intelligence+Enthusiast;Ethical+Hacking+Learner;Full+Stack+Developer;Future+Entrepreneur;Building+Projects+to+Change+the+World" />
 
@@ -10,25 +10,25 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-🎓 I am **Chiranjeevi Naik**, currently pursuing **B.E in Computer Science Engineering** at **Bangalore Institute of Technology**.
+ I am **Chiranjeevi Naik**, currently pursuing **B.E in Computer Science Engineering** at **Bangalore Institute of Technology**.
 
-💡 I am passionate about:
-- 🤖 Artificial Intelligence
-- 🔐 Ethical Hacking & Cybersecurity
-- 💻 Full Stack Development
-- 🚀 Entrepreneurship & Innovation
+   I am passionate about:
+-  Artificial Intelligence
+-  Ethical Hacking & Cybersecurity
+-  Full Stack Development
+-  Entrepreneurship & Innovation
 
-🌱 I believe technology can transform the world, and my dream is to build impactful solutions that help people globally.
+ I believe technology can transform the world, and my dream is to build impactful solutions that help people globally.
 
-⚡ I love building real-world projects and continuously learning new technologies.
+ I love building real-world projects and continuously learning new technologies.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-## 💻 Programming Languages
+##  Programming Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
@@ -48,21 +48,21 @@
 
 ---
 
-# 🚀 Projects
+#  Projects
 
-## 📌 Buy Attendance
+##  Buy Attendance
 An AI-powered smart attendance management system using facial recognition technology.
 
 ### Features:
-- 🎯 Face Recognition Attendance
-- 📷 Real-time Detection
-- 📊 Attendance Tracking
-- 🌐 Web-Based Interface
-- 🤖 AI Integration
+-  Face Recognition Attendance
+-  Real-time Detection
+-  Attendance Tracking
+-  Web-Based Interface
+-  AI Integration
 
 ---
 
-## 🌟 More Projects
+##  More Projects
 I enjoy creating innovative projects related to:
 - Artificial Intelligence
 - Automation
@@ -89,13 +89,13 @@ I enjoy creating innovative projects related to:
 
 ---
 
-# 🎯 Current Goals
+#  Current Goals
 
-- 🔥 Master Artificial Intelligence & Machine Learning
-- 🔐 Learn Advanced Ethical Hacking
-- 🌍 Build Startup-Level Projects
-- 🚀 Participate in Hackathons
-- 💡 Launch Innovative Tech Products
+-  Master Artificial Intelligence & Machine Learning
+-  Learn Advanced Ethical Hacking
+-  Build Startup-Level Projects
+-  Participate in Hackathons
+-  Launch Innovative Tech Products
 
 ---
 
@@ -119,6 +119,6 @@ I enjoy creating innovative projects related to:
 
 <div align="center">
 
-## ✨ “Dream Big. Build Bigger. Change The World.” ✨
+##  “Dream Big. Build Bigger. Change The World.” 
 
 </div>
